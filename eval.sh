@@ -1,0 +1,10 @@
+python play.py --saved_model=game851200.model
+python play.py --saved_model=game862400.model
+python play.py --saved_model=game873600.model
+python play.py --saved_model=game884800.model
+python play.py --saved_model=game896000.model
+python play.py --saved_model=game907200.model
+python play.py --saved_model=game918400.model
+python play.py --saved_model=game929600.model
+python play.py --saved_model=game940800.model
+python play.py --saved_model=game952000.model
